@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/solruf/static/css/main.3e260c89.css",
+    "main.js": "/solruf/static/js/main.885c2b5f.js",
+    "static/js/787.bb578d74.chunk.js": "/solruf/static/js/787.bb578d74.chunk.js",
+    "static/media/t1.webp": "/solruf/static/media/t1.e9a8777fe651c85b96fa.webp",
+    "index.html": "/solruf/index.html",
+    "main.3e260c89.css.map": "/solruf/static/css/main.3e260c89.css.map",
+    "main.885c2b5f.js.map": "/solruf/static/js/main.885c2b5f.js.map",
+    "787.bb578d74.chunk.js.map": "/solruf/static/js/787.bb578d74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e260c89.css",
+    "static/js/main.885c2b5f.js"
+  ]
+}
